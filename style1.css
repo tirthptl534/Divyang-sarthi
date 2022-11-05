@@ -1,0 +1,15 @@
+.vv{
+    
+    display: flex;
+    align-items: center;
+    justify-content: right;
+   
+}
+
+.vv li{
+    list-style: none;
+    position: relatives;
+    padding: 0 20px;
+   <!-- <section id="navbar">
+    <ul style="position:;"-->
+}
